@@ -35,3 +35,4 @@ This is very easy java code & easy to play.
 2. Aaquib Ali
 3. Shrejal Singh
 4. Ruthvik Kanukunta
+5. Rushik kanukunta
